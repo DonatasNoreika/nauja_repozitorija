@@ -1,1 +1,2 @@
-"# nauja_repozitorija" 
+Čia yra mano nauja repozitorija
+Ji sukurta mokymosi tikslais
